@@ -5,7 +5,5 @@ CSS Media Queries for different Mobile Phones &amp; Tables
 
     $ bower install mobile-media-queries --save
 
-bower install mobile-media-queries
-
 ## Todos:
  * Add Media Queries of various Andriod Smart Phones
