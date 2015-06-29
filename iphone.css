@@ -78,3 +78,11 @@
 	/* Enter your style here */
 }
 
+/*
+	iPhone 2G-4S in landscape
+*/
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) and (orientation : landscape) { 
+	/* Enter your style here */
+}
+
