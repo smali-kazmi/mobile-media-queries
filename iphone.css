@@ -30,3 +30,11 @@
 	/* Enter your style here */
 }
 
+/*
+	iPhone 6 Plus in landscape
+*/
+
+@media only screen and (min-device-width : 414px) and (max-device-width : 736px) and (orientation : landscape) { 
+	/* Enter your style here */
+}
+
