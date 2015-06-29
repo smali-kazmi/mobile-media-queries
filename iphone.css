@@ -5,3 +5,12 @@
 @media only screen and (min-device-width : 375px) and (max-device-width : 667px) { 
 	/* Enter your style here */
 }
+
+/*
+	iPhone 6 in landscape
+*/
+
+@media only screen and (min-device-width : 375px) and (max-device-width : 667px)  and (orientation : landscape)  { 
+	/* Enter your style here */
+}
+
