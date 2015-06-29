@@ -1,0 +1,30 @@
+{
+  "name": "mobile-media-queries",
+  "version": "1.0.0",
+  "homepage": "https://github.com/smali-kazmi/mobile-media-queries",
+  "authors": [
+    "SM@K <smali.kazmi@hotmail.com>"
+  ],
+  "description": "CSS Media Queries for different Mobile Phones & Tables",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "css",
+    "mobile",
+    "media",
+    "queries",
+    "media",
+    "queries",
+    "smart",
+    "phone"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
